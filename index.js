@@ -11,8 +11,16 @@ function tapped(em) {
 em
 }
 
+
+
 const activate = () => {
-    document.getElementById("try").addEventListener("click", tapped)
+    
+    setTimeout(() => {
+    document.getElementById("try").innerHTML = "Registration Closed";
+    }, 3000);
+
+
+    return false;
 
 }
 
