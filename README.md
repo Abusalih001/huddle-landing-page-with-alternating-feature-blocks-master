@@ -50,7 +50,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+./screenshot.png
 
 ---
 
@@ -64,6 +64,7 @@ I started by building the HTML on day one and completed it the same day. I then 
 - CSS
 - Flexbox
 - Mobile-first workflow
+- Basic DOM and Pop-up feature from Javascript
 
 ---
 
@@ -82,8 +83,8 @@ In the future, I plan to enhance this project by improving my media query usage 
 
 ## Author
 
-- GitHub: [YourGitHubUsername](https://github.com/Abusalih001)
-- Frontend Mentor: [@YourFrontendMentor](https://www.frontendmentor.io/profile/YourFrontendMentor)
+- GitHub: https://github.com/Abusalih001
+- Frontend Mentor: https://www.frontendmentor.io/profile/YourFrontendMentor
 
 ---
 
